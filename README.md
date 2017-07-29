@@ -2,7 +2,7 @@
 
 El proyecto fue realizado con las siguientes dependencias NPM:
 
-..* Dependencias de desarrollo
+* Dependencias de desarrollo
 
   * Gulp `~v.3.9.1`
   * Gulp-Concat `~v.2.6.1`
@@ -15,6 +15,6 @@ El proyecto fue realizado con las siguientes dependencias NPM:
   - Materialize `~v.0.97.8`
 
 **Levantamiento ambiente de desarrollo**
-	..*Clonar repositorio
-	..*Posicionado en nuestro proyecto hacer correr `npm install` para descargar e instalar todas las dependencias utilizadas
-	..*Correr `gulp` para que se realizen las tareas especificadas
+- Clonar repositorio
+- Posicionado en nuestro proyecto hacer correr `npm install` para descargar e instalar todas las dependencias utilizadas
+- Correr `gulp` para que se realizen las tareas especificadas
